@@ -4,7 +4,7 @@ from radiodeets import URL, PIN, TIMEOUT
 
 # for reference purposes FSAPI: https://github.com/zhelev/python-fsapi
 # and my cron entry for this is:
-# 0 2 * * * python3.9 ~/Repos/reset-radio-volume/reset-radio-volume.py >> ~/Repos/reset-radio-volume/reset-radio-volume.log 2>&1
+# 0 2 * * * python3.9 ~/Repos/reset-revo-volume/reset-revo-volume.py >> ~/Repos/reset-revo-volume/reset-revo-volume.log 2>&1
 
 fs = FSAPI(URL, PIN, TIMEOUT)
 
