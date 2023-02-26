@@ -1,2 +1,3 @@
 radiodeets.py
-reset-radio-volume.log
+reset_revo_volume.log
+__pycache__/
